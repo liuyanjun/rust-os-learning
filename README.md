@@ -1,6 +1,8 @@
 # rust-os-learning
 
-## Rust Fundamental
+## Rust Fundamental (2024.04.08 - 2024.04.14)
+
+#### Fundamental
 
 	1. Performance
 	2. Memory Safety
@@ -8,7 +10,7 @@
 	4. Polymorphism
 	5. Extensibility
 	6. Build & Package management
---------------------------------------------------------------
+
 	1. Performance
 	Minimum Runtime
 	Zero cost abstraction
@@ -91,8 +93,29 @@
 
 Start small, grow gradually
 ![image](https://github.com/liuyanjun/rust-os-learning/assets/1484246/f981d7f9-b2f1-4bc2-8ce6-4f8c067cd556)
+#### Raw Pointer
 
 
-## rust learning - data structure and algorithm
+#### rust learning - data structure and algorithm (2024.04.15 - 2024.04.19)
+1. Array
+2. LinkedList
+3. Stack
+4. Tree
+5. Graph
+6. SkipList
+
+#### Rust Async, Await, Futures
+
+#### Rust library Tokio
+
+#### RUST Labmda Programming
+
+#### RISC-V Architecture
+
+#### RISC-V Special Register
+
+#### RISC-V Assumbly Languge
+
+
 
 
